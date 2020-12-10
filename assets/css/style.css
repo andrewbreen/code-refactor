@@ -1,13 +1,24 @@
+/* Default Page Styles */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
 body {
     background-color: #d9dcd6;
 }
 
+/* Header */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,6 +34,8 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
+
+/* Navigation */
 
 .header nav {
     padding-top: 15px;
@@ -41,15 +54,7 @@ body {
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
-
+/* Focal Image */
 .hero {
     height: 800px;
     width: 100%;
@@ -59,6 +64,7 @@ p {
     background-position: center;
 }
 
+/* Digital Marketing Strategies Floats */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -69,12 +75,14 @@ p {
     margin-left: 25px;
 }
 
+/* Digital Marketing Strategies Section Properties*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Benefits Section Properties */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -116,6 +124,7 @@ p {
     text-align: center;
 }
 
+/* Benefits Images Properties */
 .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -134,6 +143,7 @@ p {
     max-width: 150px;
 }
 
+/* Digitial Marketing Images Properties */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -188,6 +198,7 @@ p {
     font-size: 36px;
 }
 
+/* Footer */
 .footer {
     padding: 30px;
     clear: both;
