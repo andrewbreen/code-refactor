@@ -10,7 +10,7 @@ To install this project, simply download the attached [index.html](https://githu
 
 ## Usage
 
-The purpose of this assignment was for me to better understand the difference between semantic html elements and non-semantic html elements. That being said, if you wish to use this project and test your knowledge, you first need to download the provided index.html and style.css files in the installation section, which were the original files provided to me by my instructors. Replace the non-semantic html elements with more descriptive elements without disrupting the functionality of the website. This is what the final project should look like:
+The purpose of this assignment was for me to better understand the difference between semantic html elements and non-semantic html elements. That being said, if you wish to use this project and test your knowledge, you first need to download the provided index.html and style.css files in the installation section, which were the original files provided to me by my instructors. Replace the non-semantic html elements with semantic html elements to make the existing site more accessible, without compromising the existing site's functionality and layout. This is what the final site should look like:
 
 ![code refactor screenshot](./assets/images/andrewbreen.github.io_code-refactor_.png)
 
