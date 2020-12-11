@@ -20,7 +20,7 @@ A lot of the knowledge on how to do this assigment came from class instruction, 
 
 ## Tests
 
-To test my html and css files, I used W3C's [Markup Validation Service]((https://validator.w3.org/#validate_by_input)) and their [CSS Validation Service](https://jigsaw.w3.org/css-validator/#validate_by_input). These services are free and easy to use. To use both, you simply copy and paste your code into the respective input boxes. 
+To test my html and css files, I used W3C'sm[Markup Validation Service](https://validator.w3.org/#validate_by_input) and their [CSS Validation Service](https://jigsaw.w3.org/css-validator/#validate_by_input). These services are free and easy to use. To use both, you simply copy and paste your code into the respective input boxes. 
 
 ## License
 
