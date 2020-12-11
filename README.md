@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project was a homework assignment that was designed to simulate an on-the-job ticket. I was given existing code that I needed to modify and refactor to meet the client's standards. In this homework assigment, the client was looking for me to refactor their existing site to make it more accessible. 
+This project was a homework assignment that was designed to simulate an on-the-job ticket. I was given existing code that I needed to modify and refactor to meet the client's standards. In this homework assigment, the client was looking for me to refactor their existing site to make it more accessible. My published website can be accessed [here](https://andrewbreen.github.io/code-refactor/).
 
 ## Installation
 
@@ -10,7 +10,24 @@ To install this project, simply download the attached [index.html](https://githu
 
 ## Usage
 
-The purpose of this assignment was for me to better understand the difference between semantic html elements and non-semantic html elements. If you wish to use this project to test your knowledge, you first need to download the provided index.html and style.css files in the installation section, which were the original files provided to me by my instructors. Replace the non-semantic html elements with semantic html elements to make the existing site more accessible, without compromising the existing site's functionality and layout. This is what the final site should look like:
+The purpose of this assignment was for me to better understand the difference between semantic html elements and non-semantic html elements. If you wish to use this project to test your knowledge, you first need to download the provided index.html and style.css files in the installation section, which were the original files provided to me by my instructors. Replace the non-semantic html elements with semantic html elements to make the existing site more accessible. To make the site more accessible, the client would like the following acceptance criterion met: 
+
+```
+GIVEN a webpage meets accessibility standards
+WHEN I view the source code
+THEN I find semantic HTML elements
+WHEN I view the structure of the HTML elements
+THEN I find that the elements follow a logical structure independent of styling and positioning
+WHEN I view the image elements
+THEN I find accessible alt attributes
+WHEN I view the heading attributes
+THEN they fall in sequential order
+WHEN I view the title element
+THEN I find a concise, descriptive title
+```
+## Mock Up
+
+The following image shows the web application's appearance and functionality:
 
 ![code refactor screenshot](./assets/images/andrewbreen.github.io_code-refactor_.png)
 
